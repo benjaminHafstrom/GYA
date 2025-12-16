@@ -52,5 +52,6 @@ public class Timer {
     public static void main(String[] args) {
         Timer a = new Timer();
         System.out.println(a);
+        System.out.println("hej");
     }
 }
